@@ -1,0 +1,23 @@
+h4{
+    color: blue;
+}
+.b{
+    width: 400px;
+    height: 450px;
+    box-shadow:0 0 3px 0 rgba(7, 7, 7, 0.3);
+    background:gray;
+    padding: 10px;
+    margin: auto;
+    
+
+}
+.box{
+    
+   
+    width: 300px;
+    height: 400px;
+    box-shadow:0 0 3px 0 rgba(0, 0, 0, 0.3);
+    background:#fff;
+    padding: 20px;
+    margin: auto;
+}
